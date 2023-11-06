@@ -1,0 +1,13 @@
+h1, h2
+{
+    text-align: center;
+}
+body
+{
+    background-color: slategray;
+}
+.lorem
+{
+    font-family: 'Oswald', sans-serif;
+    font-size: x-large;
+}
